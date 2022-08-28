@@ -1,0 +1,5 @@
+data -> turbo.az (seleniumla cekilecek)
+unikal sutun -> elan nomresi 
+
+data / 2 > 1) Excel 2) SQL
+
