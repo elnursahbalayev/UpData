@@ -6,7 +6,7 @@ import datetime
 currentDT = datetime.datetime.now()
 hour = currentDT.hour
 
-people_to_send = ['Mama']
+people_to_send = ['Ali Dorm Aytac']
 mesajlar = ['Sabahin xeyir gozel, netersen?', 'Sabahin xeyir mama necesen', 'Durmusanmi seker qiz?', 'neynirsen mamuska?']
 gunluk_mesaj = random.choice(mesajlar)
 
