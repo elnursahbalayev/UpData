@@ -1,0 +1,25 @@
+**Data Science Path**
+
+- Datanin duzgun sekilde yigilmasi
+- Datanin csv, excel, sql ve s dan pythona yuklenilmesi
+- Statistikadan istifade ederek datanin anlanilmasi
+  - Exploratory Data Analysis (EDA)
+  - Null qiymetlerin tapilmasi
+  - Datadaki problemlerin askar olunmasi (outliers etc)
+- Datanin qraflarla analizi
+- Datanin temizlenilmesi
+  - Imputation
+  - Encoding
+  - Scaling
+- Machine Learning
+  - Supervised
+    - Regression
+    - Classification
+  - Unsupervised
+    - Clustering
+  - Model performansinin artirilmasi
+    - PCA - Principal component analysis
+    - Feature engineering
+      - K fold
+      - Grid search
+      - Hyperparameter tuning
